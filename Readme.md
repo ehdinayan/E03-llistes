@@ -64,6 +64,8 @@ Now I would like to show a nested list example, so we can have an idea of the wh
 ```
 Its important to say I'm not sure if it is possible to create an ordered list nested into an unordered one, or vice versa.
 
+Possibly this nested list won't look well in an .md file.
+
 It is important to say,also,  that here we are talking about *meringue lemon cake* ingredients...xd!  
 
 Here is how it would be appearing:
