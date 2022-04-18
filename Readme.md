@@ -50,17 +50,17 @@ Now I would like to show a nested list example, so we can have an idea of the wh
   <li>Cantidad por 100 gramos</li>
   <li>Calorías 285</li>
   <li>Grasas totales 13 g
-    <ol>
+    <ul>
       <li>Ácidos grasos saturados 3,2 g</li>
       <li>Ácidos grasos poliinsaturados 3,3 g</li>
       <li>Ácidos grasos monoinsaturados 6 g</li>
-    </ol>
+    </ul>
   </li>
   <li>Hidratos de carbono 39 g</li>
   <li>Proteínas 3,8 g</li>
 </ul>
 ```
-Its important to say I'm not sure but it seems like it is possible an ordered list nested into an unordered one, but not vice versa case.
+Its important to say I'm not sure if it is possible to create an ordered list nested into an unordered one, or vice versa.
 
 It is important to say,also,  that here we are talking about *meringue lemon cake* ingredients...xd!  
 
