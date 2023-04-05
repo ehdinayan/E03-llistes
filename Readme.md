@@ -52,11 +52,11 @@ Now I would like to show a nested list example, so we can have an idea of the wh
   <li>Cantidad por 100 gramos</li>
   <li>Calorías 285</li>
   <li>Grasas totales 13 g
-    <ul>
+    <ol>
       <li>Ácidos grasos saturados 3,2 g</li>
       <li>Ácidos grasos poliinsaturados 3,3 g</li>
       <li>Ácidos grasos monoinsaturados 6 g</li>
-    </ul>
+    </ol>
   </li>
   <li>Hidratos de carbono 39 g</li>
   <li>Proteínas 3,8 g</li>
@@ -68,7 +68,7 @@ Possibly this nested list won't look well in an .md file.
 
 It is important to say,also,  that here we are talking about *meringue lemon cake* ingredients...xd!  
 
-Here is how it would be appearing:
+Here is how it would be appearing, it seems like there will be no problem:
 
 <ul>
   <li>Cantidad por 100 gramos</li>
@@ -84,4 +84,6 @@ Here is how it would be appearing:
   <li>Proteínas 3,8 g</li>
 </ul>
 
-To finish, I would like to add a <a href="https://es.wikipedia.org/wiki/Tarta_de_lim%C3%B3n_con_merengue#/media/Archivo:NCI_Visuals_Food_Pie.jpg">link</a> to an image of this cake, because we have been indirectly talking about it you know?
+To finish, I would like to share an image of the cake, because we have been indirectly talking about it you know?
+
+![](Imagenes/PastelLimonMerngue.jpg)
