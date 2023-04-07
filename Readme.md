@@ -68,21 +68,23 @@ Possibly this nested list won't look well in an .md file.
 
 It is important to say,also,  that here we are talking about *meringue lemon cake* ingredients...xd!  
 
-Here is how it would be appearing, it seems like there will be no problem:
+Here is how it would be appearing:
 
-<ul>
-  <li>Cantidad por 100 gramos</li>
-  <li>Calorías 285</li>
-  <li>Grasas totales 13 g
-    <ol>
-      <li>Ácidos grasos saturados 3,2 g</li>
-      <li>Ácidos grasos poliinsaturados 3,3 g</li>
-      <li>Ácidos grasos monoinsaturados 6 g</li>
-    </ol>
-  </li>
-  <li>Hidratos de carbono 39 g</li>
-  <li>Proteínas 3,8 g</li>
-</ul>
+![](Imagenes/nestedList.png)
+
+We can use the atribute *type* in an ordered lists to specify if we want a letter based lists instead of numbers, and if we want a reversed list we should add the instruction *reversed* as well:
+
+```
+<ol type="A" reversed>
+  <li>Ácidos grasos saturados 3,2 g</li>
+  <li>Ácidos grasos poliinsaturados 3,3 g</li>
+  <li>Ácidos grasos monoinsaturados 6 g</li>
+</ol>
+```
+This would be the result of doing so:
+
+![](Imagenes/listReversed.png)
+
 
 To finish, I would like to share an image of the cake, because we have been indirectly talking about it you know?
 
